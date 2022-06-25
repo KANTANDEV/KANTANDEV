@@ -4,7 +4,8 @@
 
 
 - Languages speak : 🇫🇷 / 🇬🇧
-- 💻 Hard-skills : HTML / CSS / SCSS / JS  /  PYTHON / NODE / MONGODB / Batcher / Ducky-Script
+- 💻 Hard-skills : [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=html)](https://github.com/betterTisen/github-skill-card) / [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=CSS)](https://github.com/betterTisen/github-skill-card) / [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=Javascript)](https://github.com/betterTisen/github-skill-card) / [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=React)](https://github.com/betterTisen/github-skill-card) / SCSS / Batcher / Ducky-Script
+
 - Cybersecurity 👨‍🎓
 - OS : WIN / MAC / LINUX-DEBIAN / PARROT / KALI
 - IDE : 🆚Code / Visual-Studio
