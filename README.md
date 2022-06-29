@@ -8,7 +8,7 @@
 
 - 💻 Hard-skills :
 
-[![skill](https://pure-escarpment-54474.herokuapp.com/api?type=html)](https://github.com/betterTisen/github-skill-card)  [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=css)](https://github.com/betterTisen/github-skill-card)  [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=javascript)](https://github.com/betterTisen/github-skill-card)  [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=react)](https://github.com/betterTisen/github-skill-card) 
+[![skill](https://pure-escarpment-54474.herokuapp.com/api?type=html)](https://github.com/betterTisen/github-skill-card)  [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=css)](https://github.com/betterTisen/github-skill-card)  [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=javascript)](https://github.com/betterTisen/github-skill-card)  [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=react)](https://github.com/betterTisen/github-skill-card) [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=typescript)](https://github.com/betterTisen/github-skill-card)
 
 SCSS / Batcher / Ducky-Script
 
