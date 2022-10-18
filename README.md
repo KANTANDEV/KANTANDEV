@@ -12,7 +12,7 @@
 
 SCSS / Batcher / Ducky-Script
 
-- Cybersecurity 👨‍🎓
+- Pentester / Ethical hacker
 - OS : WIN / MAC / LINUX-DEBIAN / PARROT / KALI
 - IDE : 🆚Code / Visual-Studio
 - 📧  How to reach me: kantanyagamidev@gmail.com
