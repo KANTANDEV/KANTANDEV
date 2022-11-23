@@ -10,9 +10,9 @@
 
 [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=html)](https://github.com/betterTisen/github-skill-card)  [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=css)](https://github.com/betterTisen/github-skill-card)  [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=javascript)](https://github.com/betterTisen/github-skill-card)  [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=react)](https://github.com/betterTisen/github-skill-card) [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=typescript)](https://github.com/betterTisen/github-skill-card)
 
-SCSS / Batcher / Ducky-Script
+SCSS / Batcher / Ducky-Script / Python
 
-- Pentester / Ethical hacker
+- Dev web / Dev ai / Pentester / Ethical hacker /
 - OS : WIN / MAC / LINUX-DEBIAN / PARROT / KALI
 - IDE : 🆚Code / Visual-Studio
 - 📧  How to reach me: kantanyagamidev@gmail.com
