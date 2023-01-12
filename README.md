@@ -12,7 +12,7 @@
 
 SCSS / Batcher / Ducky-Script / Python
 
-- Dev web / Dev ai / Pentester / Ethical hacker /
+- Dev full-stack / AI / Cyber-security /
 - OS : WIN / MAC / LINUX-DEBIAN / PARROT / KALI
-- IDE : 🆚Code / Visual-Studio
+- IDE : 🆚Code / Visual-Studio / Spyder
 - 📧  How to reach me: kantanyagamidev@gmail.com
