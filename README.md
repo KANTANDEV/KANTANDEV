@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kantan Yagami</h1>
-<h3 align="center">I’m Fullstack dev</h3>
 
 
 <p align="left">
