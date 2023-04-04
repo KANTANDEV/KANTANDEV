@@ -35,7 +35,7 @@
 
 <h3 align="left">Contact :</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/kantan-yagami">
+  <a href="https://www.linkedin.com/in/kantan-yagami-534919232/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
