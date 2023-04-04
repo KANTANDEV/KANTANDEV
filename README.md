@@ -38,8 +38,8 @@
   <a href="https://www.linkedin.com/in/kantan-yagami">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
- <a href="kantanyagamidev.fr">
+</p>
+<a href="kantanyagamidev.fr">
     <img src='https://img.shields.io/badge/Website-https%3A%2F%2Fkantanyagamidev.fr%2F-blue' />
   </a>
  <img src='https://img.shields.io/badge/Email-kantanyagamidev%40gmail.com-blue' />
-</p>
