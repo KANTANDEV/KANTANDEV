@@ -6,7 +6,7 @@
 <p align="center" ><a href="https://app.daily.dev/KANTANDEV"><img src="https://api.daily.dev/devcards/7fbecf1871794289aea4848aa71d2351.png?r=suw" width="400" alt="KANTAN YAGAMI's Dev Card"/></a> </p>
  
 
-<h3 align="left">Hard - Skills :</h3>
+<h3 align="left">Skills :</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=devto,ai" />
