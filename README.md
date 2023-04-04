@@ -37,7 +37,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-   <img src-'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="222" height="20" role="img" aria-label="Website: https://kantanyagamidev.fr/"</svg>' />
+   <img src='https://img.shields.io/badge/Website-https%3A%2F%2Fkantanyagamidev.fr%2F-blue' />
   </a>
 </p>
 
