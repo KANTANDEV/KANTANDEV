@@ -44,6 +44,7 @@
     <img src='https://img.shields.io/badge/Website-https%3A%2F%2Fkantanyagamidev.fr%2F-blue' />
 </a>
 <br/>
+<br/>
 <a href='mailto:kantanyagamidev@gmail.com'>
  <img src='https://img.shields.io/badge/Email-kantanyagamidev%40gmail.com-blue' />
 <a/>
