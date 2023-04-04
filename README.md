@@ -3,7 +3,7 @@
 
 
 
-<a align="center" href="https://app.daily.dev/KANTANDEV"><img src="https://api.daily.dev/devcards/7fbecf1871794289aea4848aa71d2351.png?r=suw" width="400" alt="KANTAN YAGAMI's Dev Card"/></a>
+<p align="center" ><a href="https://app.daily.dev/KANTANDEV"><img src="https://api.daily.dev/devcards/7fbecf1871794289aea4848aa71d2351.png?r=suw" width="400" alt="KANTAN YAGAMI's Dev Card"/></a> </p>
  
 
 <h3 align="left">Languages and Tools:</h3>
