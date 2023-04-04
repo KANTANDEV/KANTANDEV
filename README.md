@@ -14,43 +14,43 @@
 </p>
 
 <h3 align="left">Languages :</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,py" />
   </a>
 </p>
 
-<h3 align="left">Framework :</h3>
-<p align="center">
+<h3 align="right">Framework :</h3>
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
 </p>
 
 <h3 align="left">Libraries :</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=redux,express,pytorch,materialui,tailwind" />
   </a>
 </p>
 
-<h3 align="left">Tools :</h3>
-<p align="center">
+<h3 align="right">Tools :</h3>
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,vite,webpack,nextjs,prisma,electron,tensorflow,azure,jest,postman" />
   </a>
 </p>
 
 <h3 align="left">DB :</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
 </p>
 
 
-<h3 align="left">IDE :</h3>
-<p align="center">
+<h3 align="right">IDE :</h3>
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
