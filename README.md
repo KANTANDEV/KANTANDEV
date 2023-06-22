@@ -17,7 +17,7 @@
 <h3 align="left">Languages & Framework :</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,py,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,py,flask,django," />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 <h3 align="left">Libraries & Tools :</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vite,nodejs,express,prisma,webpack,nextjs,redux,electron,pytorch,materialui,tailwind,threejs,azure,tensorflow,mongodb,firebase,jest" />
+    <img src="https://skillicons.dev/icons i=linux,vite,nodejs,babel,express,prisma,webpack,nextjs,redux,electron,pytorch,materialui,tailwind,threejs,azure,aws,tensorflow,mongodb,firebase,jest,postman" />
   </a>
 </p>
 
