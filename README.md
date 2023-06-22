@@ -27,7 +27,7 @@
 <h3 align="left">Libraries & Tools :</h3>
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vite,nodejs,babel,express,prisma,webpack,nextjs,redux,electron,pytorch,materialui,tailwind,threejs,azure,aws,tensorflow,mongodb,firebase,jest,postman&perline=3" />
+    <img src="https://skillicons.dev/icons?i=linux,vite,nodejs,babel,express,prisma,webpack,nextjs,redux,electron,pytorch,materialui,tailwind,threejs,azure,aws,tensorflow,mongodb,firebase,jest,postman" />
   </a>
 </p>
 
