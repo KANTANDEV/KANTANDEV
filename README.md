@@ -17,7 +17,7 @@
 <h3 align="left">Languages & Framework :</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,py,flask,django," />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,py" />
   </a>
 </p>
 
